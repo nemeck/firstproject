@@ -1,2 +1,4 @@
 # firstproject
-This is my first project on Software Carpenterology
+
+This is my first project on SOftware Carpenterology
+It has great 
