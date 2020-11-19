@@ -1,7 +1,7 @@
 # firstproject
 
 This is my first project on SOftware Carpenterology
-It contains great software for performing my data analysis.
+It contains nice software for performing my data analysis.
 
 ## Usage
 Description
